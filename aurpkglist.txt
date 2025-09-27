@@ -1,0 +1,5 @@
+catppuccin-gtk-theme-mocha
+prismlauncher-git
+prismlauncher-git-debug
+tofi
+yay
