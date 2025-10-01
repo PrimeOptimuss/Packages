@@ -1,4 +1,3 @@
-catppuccin-gtk-theme-mocha
 mullvad-vpn
 prismlauncher-git
 prismlauncher-git-debug
