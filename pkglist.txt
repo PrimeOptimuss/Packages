@@ -9,7 +9,6 @@ bluez-utils
 brightnessctl
 cliphist
 cuda
-dmidecode
 docker
 docker-compose
 dolphin
@@ -29,7 +28,6 @@ hyprshot
 imv
 linux
 linux-firmware
-lutris
 mako
 mesa-utils
 mpc
@@ -55,7 +53,6 @@ pulsemixer
 reflector
 sof-firmware
 steam
-tailscale
 tofi
 ttf-firacode-nerd
 unzip
